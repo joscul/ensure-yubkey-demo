@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Id: yubico-util
+Implementation-Title: Yubico internal utilities
+Implementation-Version: 2.4.0-8.g63d6af1-SNAPSHOT-DIRTY
+Implementation-Vendor: Yubico
+

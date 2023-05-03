@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Id: java-webauthn-server-attestation
+Implementation-Title: Yubico WebAuthn attestation subsystem
+Implementation-Version: 2.4.0-8.g63d6af1-SNAPSHOT-DIRTY
+Implementation-Vendor: Yubico
+Git-Commit: 63d6af10a130909eef1f14b0ef02cd9950bd829b
+
